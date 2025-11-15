@@ -1,10 +1,14 @@
 # EXP-5
-EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
+# DATE:15/11/25
 
-AIM
-. To find the Zener Break down voltage regulation condition.
+ # EXP. NO. 5. 		
+ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
-APPARATUS:
+# AIM
+
+ To find the Zener Break down voltage regulation condition.
+
+# APPARATUS:
 
 S.No	Name of the Apparatus	Range	Quantity
 1	Zener Diode (IN 4735A)		1
@@ -15,12 +19,12 @@ S.No	Name of the Apparatus	Range	Quantity
 6	Digital Voltmeter	(0-20)V DC	1
 7	Connecting Wires	As Required	
 
-CIRCUIT DIAGRAM:
+# CIRCUIT DIAGRAM:
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
 
-PROCEDURE:
+# PROCEDURE:
 
 1. Connections are made as per the circuit diagram.
 2. The Regulated power supply voltage is increased in steps.
@@ -29,15 +33,20 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
+# REGULATION CHARACTERISTICS:
 
 V-I & REGULATION CHARACTERISTICS:
 
-PRECAUTIONS:
+# PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
-RESULT:
+![540c2c69-81b6-422d-a05c-5a29d7759dce](https://github.com/user-attachments/assets/9378d5f0-0f6c-42d2-b71f-45b49225d044)
+![7fa82999-1f08-429b-9c1e-89d86fc1608e](https://github.com/user-attachments/assets/d0264b95-4f54-4b52-9f41-adc2deb93245)
+![1fd81103-9d30-4af9-b9d6-226a632d999a](https://github.com/user-attachments/assets/8f3681c8-8d12-4d85-90cf-8c40a33d7136)
+![80070c95-3938-41a1-9850-ddc233f56e7b](https://github.com/user-attachments/assets/550f8a0f-6fa7-41e9-92a4-00bbc26f8517)
+
+# RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
